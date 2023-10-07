@@ -1,1 +1,1 @@
-2. git-challenges/01-basics/solution.txt
+git-challenges/01-basics/solution.txt
