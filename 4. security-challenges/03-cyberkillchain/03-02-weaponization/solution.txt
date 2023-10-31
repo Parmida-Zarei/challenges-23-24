@@ -2,4 +2,4 @@
 T1064
 Defense Evasion
 obfuscation
-g
+flag{l39a07a239aacd40c948d852a5c9f8d1}

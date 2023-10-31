@@ -1,5 +1,5 @@
 C++
 Efteling
 Git
-Coffie
-AT
+Coffee
+Vi
